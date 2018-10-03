@@ -1,8 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="TypeScript" />
-    </blacklists>
-    <option id="js.show.names.for.all.args" value="true" />
-  </component>
-</application>

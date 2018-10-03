@@ -1,18 +1,13 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2016-11-21T18:23:21</property>
+    <property name="created">2018-04-22T19:24:12</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-02-03T15:47:54</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-05-06T17:09:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
-  <colors>
-    <option name="GUTTER_BACKGROUND" value="" />
-  </colors>
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
 </scheme>

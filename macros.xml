@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Compare with master">
+      <action id="Git.CompareWithBranch" />
+      <typing text-keycode="77:0;65:0;83:0;84:0;69:0;82:0">master</typing>
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

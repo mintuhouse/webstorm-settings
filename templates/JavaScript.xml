@@ -1,0 +1,13 @@
+<templateSet group="JavaScript">
+  <template name="tu" value="it('should $ASSERTION$', () =&gt; {&#10;    const state = $COMPONENT$.init($INIT_PARAMS$)&#10;    const actual = $COMPONENT$.update(action($VALUE$, '$TYPE$'), state)&#10;    const expected = {&#10;        ...state,&#10;        $UPDATED_STATE$&#10;    }&#10;    assert.deepEqual(actual, expected)    &#10;})" description="test for update function" toReformat="true" toShortenFQNames="true">
+    <variable name="ASSERTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INIT_PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UPDATED_STATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

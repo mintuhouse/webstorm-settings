@@ -2,79 +2,16 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-        </profile>
+        <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="JsFlowSettings">
-        <service-enabled>false</service-enabled>
-        <exe-path />
-        <annotation-enable>false</annotation-enable>
-        <other-services-enabled>false</other-services-enabled>
-      </component>
-      <component name="NamedScopeManager">
-        <scope name="Typescript" pattern="!file:**/**.js&amp;&amp;!file:**/**.map" />
-      </component>
-      <component name="ProjectDictionaryState">
-        <dictionary name="tushar" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Dart</id>
-              </State>
-              <State>
-                <id>Flow type checkerJavaScript</id>
-              </State>
-              <State>
-                <id>General</id>
-              </State>
-              <State>
-                <id>Internationalization issues</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
-                <id>Less</id>
-              </State>
-              <State>
-                <id>Sass/SCSS</id>
-              </State>
-            </expanded-state>
-          </profile-state>
-        </entry>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
       </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="settings.phonegap" />
-      </component>
-      <component name="VcsContentAnnotationSettings">
-        <option name="myLimit" value="2678400000" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <last-edited>Typescript</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-              <order>
-                <scope name="Typescript" />
-              </order>
-            </settings>
-          </state>
-        </states>
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="fileTemplates" />
       </component>
     </defaultProject>
   </component>

@@ -1,46 +1,23 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
-    <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.ts" />
-    <recentFileMasks>
-      <mask>grap</mask>
-      <mask>graph</mask>
-      <mask>graphQ</mask>
-      <mask>graphQL</mask>
-      <mask>*graphQL</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.grap</mask>
-      <mask>*.te</mask>
-      <mask>*.test</mask>
-      <mask>*.test.</mask>
-      <mask>*.test.t</mask>
-      <mask>*.test.ts</mask>
-      <mask>*..ts</mask>
-      <mask>*s.ts</mask>
-      <mask>*sp.ts</mask>
-      <mask>*spo.ts</mask>
-      <mask>*spor.ts</mask>
-      <mask>*sport.ts</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.graphqls</mask>
-      <mask>*.graphQL</mask>
-      <mask>*.css</mask>
-      <mask>*.ts</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.graphql</mask>
+    <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
